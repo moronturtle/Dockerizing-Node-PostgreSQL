@@ -1,5 +1,4 @@
-Dockerizing-React-Redux-Node-PostgreSQL-Starter-kit
-
+Dockerizing-Node-PostgreSQL
 ## Required
 
 - Docker
